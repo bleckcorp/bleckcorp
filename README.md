@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleckcorp)](https://github.com/bleckcorp/github-readme-stats)
+[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleckcorp)](https://github.com/bleckcorp&show_icons=true&theme=radical/github-readme-stats)
+
