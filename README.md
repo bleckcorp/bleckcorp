@@ -10,7 +10,7 @@
 
 [<img align="left" alt="bleckcorp | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="bleckcorp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-- ⚡ Website: <a href:"https://blessingchuks.tech">blessingchuks.tech</a>
+⚡ Website: <a href="https://blessingchuks.tech">blessingchuks.tech</a>
 
 <br />
 
