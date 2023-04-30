@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Developer and I love developing tech solutions!
 
-- 🌱 I’m currently learning everything 🤣 ---> infinite loop
+- 🌱 I’m currently learning everything 🤣: "trust me it doesn't end"
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play the piano.
 
