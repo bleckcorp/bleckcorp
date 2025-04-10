@@ -1,45 +1,45 @@
-### Hi there, I'm Blessing Chukwubuogum - aka bleckcorp 👋
+# 👋 Hi there, I'm Blessing Chukwubuogum - aka bleckcorp
 
-## I'm a Full Stack Software Developer and I love developing tech solutions!
+## Full Stack Software Developer passionate about building impactful tech solutions
 
-- 🌱 I’m currently learning everything 🤣: "trust me it doesn't end"
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to play the piano.
+- 🔭 I'm currently working on enterprise applications with Java Spring Boot and React
+- 🌱 Always learning and improving: "The journey never ends" 
+- 👯 Open to collaborating with fellow developers on exciting projects
+- 🎹 Fun fact: I love playing the piano when I'm not coding
 
-### Connect with me:
+## 🛠️ Tech Stack
 
-[<img align="left" alt="bleckcorp | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bleckcorp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-⚡ Website: <a href="https://blessingchuks.tech">blessingchuks.tech</a>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+![SLF4J](https://img.shields.io/badge/SLF4J-3C94C2?style=for-the-badge&logo=slf4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br />
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br />
-<br />
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=bleckcorp&show_icons=true&theme=radical" alt="bleckcorp's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bleckcorp&theme=radical" alt="bleckcorp's GitHub Streak" />
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bleckcorp/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bleckcorp)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://blessingchuks.tech)
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="bleckcorp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bleckcorp&show_icons=true&hide_border=true" />
-
-</details>
-
-[linkedin]: https://www.linkedin.com/in/bleckcorp/
-[twitter]: https://twitter.com/bleckcorp
-[instagram]: https://www.instagram.com/bleckcorp/
-
-
+⭐️ From [bleckcorp](https://github.com/bleckcorp)
